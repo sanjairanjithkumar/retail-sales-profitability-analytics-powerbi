@@ -1,6 +1,3 @@
-# retail-sales-profitability-analytics-powerbi
-📊 Retail Sales &amp; Profitability Data Analytics | Power BI Dashboard | Sales, Profit, Orders, Products, Categories, Stores &amp; Regional Performance | Interactive Business Insights 🚀
-
 # 📊 Retail Sales & Profitability Data Analytics Dashboard | Power BI
 
 📊 A fully developed **Retail Sales & Profitability Data Analytics Dashboard built entirely using Microsoft Power BI**.
@@ -199,7 +196,7 @@ Based on the dashboard:
 
 | File                           | Description                  |
 | -----------------------------  | ---------------------------- |
-| `Retail_Sales_Multi_year.pbix` | 📊 Complete Power BI project |
+| `retail-sales-profitability-analytics.pbix` | 📊 Complete Power BI project |
 | `dashboard-image.pdf`          | 🖼️ Dashboard preview        |
 | `README.md`                    | 📄 Project documentation     |
 

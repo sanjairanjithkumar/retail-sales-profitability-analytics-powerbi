@@ -11,7 +11,7 @@ The dashboard provides an interactive analysis of **sales, profit, orders, custo
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](dashboard-image.png)
+![Retail Sales Dashboard](dashboard-image.pdf)
 
 ---
 
@@ -194,12 +194,11 @@ Based on the dashboard:
 
 # 📂 Repository Contents
 
-| File                          | Description                  |
-| ----------------------------- | ---------------------------- |
-| `retail_sales_dashboard.pbix` | 📊 Complete Power BI project |
-| `dashboard-image.png`         | 🖼️ Dashboard preview        |
-| `source_data.png`             | 📋 Source data preview       |
-| `README.md`                   | 📄 Project documentation     |
+| File                           | Description                  |
+| -----------------------------  | ---------------------------- |
+| `Retail_Sales_Multi_year.pbix` | 📊 Complete Power BI project |
+| `dashboard-image.pdf`          | 🖼️ Dashboard preview        |
+| `README.md`                    | 📄 Project documentation     |
 
 ---
 
@@ -230,10 +229,4 @@ The final dashboard provides an interactive way to monitor **retail sales and pr
 
 🎓 Data Analytics Student
 📊 Aspiring Data Analyst
-
-**Skills:** Power BI | SQL | Python | Excel | Data Analytics
-
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
 

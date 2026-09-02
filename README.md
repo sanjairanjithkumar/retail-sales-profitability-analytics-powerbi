@@ -11,6 +11,9 @@ The dashboard provides an interactive analysis of **sales, profit, orders, custo
 
 ## 📸 Dashboard Preview
 
+![Retail Sales Dashboard](overview-dashboard.png)
+![Retail Sales Dashboard](time-series-dashboard.png)
+
 ![Retail Sales Dashboard](dashboard-image.pdf)
 
 ---
